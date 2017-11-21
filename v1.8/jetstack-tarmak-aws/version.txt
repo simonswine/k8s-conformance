@@ -1,0 +1,2 @@
+Nov 21 10:52:59.096: INFO: Client version: v1.8.3
+Nov 21 10:52:59.097: INFO: Server version: v1.8.3

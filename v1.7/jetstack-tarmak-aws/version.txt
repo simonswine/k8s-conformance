@@ -1,0 +1,2 @@
+Nov 21 13:16:11.893: INFO: Client version: v1.8.3
+Nov 21 13:16:11.898: INFO: Server version: v1.7.10

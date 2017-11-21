@@ -1,0 +1,6 @@
+vendor: Jetstack
+name: Tarmak on Amazon Web Services
+version: 0.2-rc1
+website_url: https://cloudplatform.sap.com/index.html
+documentation_url: http://docs.tarmak.io/en/latest/
+product_logo_url: https://raw.githubusercontent.com/jetstack/tarmak/master/docs/static/logo-tarmak.png
